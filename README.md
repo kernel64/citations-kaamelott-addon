@@ -10,7 +10,7 @@
 
 ## Installation
 
-Vous pouvez installer l'addon directement depuis le [Mozilla Add-ons Store](https://addons.mozilla.org/fr/firefox/).
+Vous pouvez installer l'addon directement depuis le [Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/citations-kaamelott/).
 
 ### Pour les développeurs
 
